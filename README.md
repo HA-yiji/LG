@@ -8,3 +8,5 @@
 5. 0.676/ 상위 20개 주요 변수 선택, 결측값 iterative imputer 사용, RandomForestClassifier 모델(baseline_submit6.csv)
 6. 0.581/ 상위 20개 주요 변수 선택, 결측값 iterative imputer 사용, DecisionTreeClassifier 모델(baseline_submit7.csv)
 7. 0.665/ 상위 20개 주요 변수 선택, 결측값 iterative imputer 사용, VotingClassifier - Soft Voting 모델(baseline_submit8.csv)
+8. -
+9. 0.740/ 상위 20개 주요 변수 선택, 결측값(범주형data-최빈값, 수치형data-중앙값)사용, catboost 모델
